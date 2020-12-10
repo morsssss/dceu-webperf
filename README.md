@@ -22,6 +22,14 @@ Links and notes for DrupalCon Europe Web Performance
 - https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/
 - https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/
 
+## Other tools
+- g.co/chromeuxdash
+- bit.ly/crux-tool
+- https://developers.google.com/speed/pagespeed/insights/
+- https://github.com/GoogleChrome/lighthouse
+- https://squoosh.app
+
+
 ## Lab demo links (that introduce performance regressions)
 Previews are provided by [Tugboat](https://www.tugboat.qa), which can create automatic "previews" for each PR or git branch.
 
